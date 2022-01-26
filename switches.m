@@ -8,7 +8,7 @@ public class Date {
 	public Date() {
 		var month = "January";
 		var day = 1;
-		var year = 1000;
+		var years = 1000;
 	}
 
 	public Date(int monthInt, int day, int year) {
